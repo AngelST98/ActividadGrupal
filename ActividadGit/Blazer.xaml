@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActividadGit.Blazer"
+             Title="Blazer">
+    <ScrollView>
+        <StackLayout>
+            <Label Text="Chevrolet Blazer"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"/>
+            
+            <Image Source="blazer.png"
+                   WidthRequest="200"
+                   HeightRequest="200"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+            
+            <Label Text="La nueva Chevrolet Blazer RS es la camioneta deportiva con las líneas más agresivas y el mejor desempeño tanto en carretera como 
+                        fuera de ella. Los trazos exteriores con ángulos fuertemente marcados, harán que nunca pase desapercibida.
+                        Pero no sólo su imagen es deportiva. Con su poderoso motor V6 de 3.6 litros, la Blazer RS ofrece una gran aceleración y un excelente 
+                        comportamiento dinámico gracias a sus diferentes modos de tracción que incluyen el modo Sport, para tener una mejor respuesta al 
+                        acelerar. Adicionalmente, cuenta con 2 modos para condiciones difíciles, por lo que estarás en capacidad de ir fuera de la carretera con 
+                        seguridad y comodidad."
+                   FontSize="18"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   HorizontalTextAlignment="Center"
+                   LineBreakMode="WordWrap"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

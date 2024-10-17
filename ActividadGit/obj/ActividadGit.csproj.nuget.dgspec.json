@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\User\\Documentos\\ActividadGit\\ActividadGit.csproj": {}
+    "D:\\User\\Documentos\\ActividadGit1\\ActividadGit\\ActividadGit.csproj": {}
   },
   "projects": {
-    "D:\\User\\Documentos\\ActividadGit\\ActividadGit.csproj": {
+    "D:\\User\\Documentos\\ActividadGit1\\ActividadGit\\ActividadGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\User\\Documentos\\ActividadGit\\ActividadGit.csproj",
+        "projectUniqueName": "D:\\User\\Documentos\\ActividadGit1\\ActividadGit\\ActividadGit.csproj",
         "projectName": "ActividadGit",
-        "projectPath": "D:\\User\\Documentos\\ActividadGit\\ActividadGit.csproj",
+        "projectPath": "D:\\User\\Documentos\\ActividadGit1\\ActividadGit\\ActividadGit.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\User\\Documentos\\ActividadGit\\obj\\",
+        "outputPath": "D:\\User\\Documentos\\ActividadGit1\\ActividadGit\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
